@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 dsfsdfsdf ashdakshd
+=======
+
+sua tu main local va tren git
+>>>>>>> main
